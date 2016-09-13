@@ -18,6 +18,7 @@
   "dependencies": {
     "requirejs": "^2.3.1",
     "jquery": "2.1.0",
-    "bootstrap": "3.3.5"
+    "bootstrap": "3.3.5",
+    "domReady": "requirejs-domReady#^2.0.1"
   }
 }
