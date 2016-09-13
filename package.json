@@ -1,0 +1,23 @@
+{
+  "name": "requirejs-demo-bower-grunt",
+  "version": "0.0.1",
+  "author": "PolanZ",
+  "description": "The simple project for building the requirejs for JavaScript",
+  "repository": {
+    "url": "https://github.com/PolanZ/requirejs-demo-bower-grunt.git"
+  },
+  "scripts": {
+	"preinstall": "bower install"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    // "grunt-bower-task": "^0.4.0",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}

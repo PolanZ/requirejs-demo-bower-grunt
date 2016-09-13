@@ -1,0 +1,23 @@
+{
+  "name": "requirejs-demo-bower-grunt",
+  "version": "0.0.1",
+  "description": "The simple project for building the requirejs for JavaScript",
+  "main": "",
+  "authors": [
+    "PolanZ"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/PolanZ/requirejs-demo-bower-grunt",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "^2.3.1",
+    "jquery": "2.1.0",
+    "bootstrap": "3.3.5"
+  }
+}
